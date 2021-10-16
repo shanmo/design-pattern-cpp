@@ -6,6 +6,7 @@
 > Description:   
  ************************************************************************/
 #include <string> 
+#include <iostream> 
 
 using namespace std; 
 
@@ -17,7 +18,7 @@ public:
     Cat() : _name("cat"), _shoutNum(3) {
 
     }
-    Cat(const auto& string s, int num) : _name(s), _shoutNum(num) {
+    Cat(const string& s, int num) : _name(s), _shoutNum(num) {
 
     }
     int GetNum() {
@@ -41,4 +42,7 @@ public:
 
 int main() {
     Cat cat("mm", 5);
+    cout << cat.Shout() << endl;
+    cat.SetNum(7);
+    cout << cat.Shout() << endl;
 }

@@ -1,11 +1,12 @@
 # Design pattern in C++ 
 
-Use modern C++ to learn design patterns
+- Use modern C++ to learn design patterns
+- Compile `g++ -std=c++17 a5.cpp -o solution.out` 
 
 |---|---|
 |---|---|
 |Topic|Example|
-| basics | [link]() |
+| basics | [link](https://github.com/shanmo/design-pattern-cpp/tree/main/basics) |
 
 # References 
 
