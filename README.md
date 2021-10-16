@@ -6,7 +6,7 @@
 |---|---|
 |---|---|
 |Topic|Example|
-| basics | [link](https://github.com/shanmo/design-pattern-cpp/tree/main/basics) |
+| basics | [link](https://github.com/shanmo/design-pattern-modern-cpp/tree/main/basics) |
 
 # References 
 
