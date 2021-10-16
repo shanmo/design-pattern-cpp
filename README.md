@@ -1,7 +1,9 @@
 # Design pattern in C++ 
 
-|---|---|---|
-|---|---|---|
+Use modern C++ to learn design patterns
+
+|---|---|
+|---|---|
 |Topic|Example|
 | basics | [link]() |
 
